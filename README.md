@@ -48,7 +48,7 @@ Follow these steps to get the app up and running locally on your machine:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/movie-search-app.git
+   git clone https://github.com/lRennan/Movie-Search.git
    cd movie-search-app
    ```
 
