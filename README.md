@@ -11,8 +11,10 @@ A simple and interactive Movie Search App built with React. It allows users to s
 - Responsive design that adapts to different screen sizes.
 
 Preview 
-C:\Users\renna\OneDrive\Área de Trabalho\exercise\new\movies.jpeg
-C:\Users\renna\OneDrive\Área de Trabalho\exercise\new\seach_movie.jpeg
+![seach](https://github.com/user-attachments/assets/baf5daaf-524c-44ec-b96a-6d6fb52129e6)
+
+![movies](https://github.com/user-attachments/assets/845890ce-5cac-47bd-ac5a-ecfd8e03e02b)
+
 
 ## Technologies Used
 
