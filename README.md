@@ -10,10 +10,9 @@ A simple and interactive Movie Search App built with React. It allows users to s
 - Display a "No movies found" message when no movies match the search query.
 - Responsive design that adapts to different screen sizes.
 
-Preview
-![alt text](../../seach_movie.jpeg)
-
-![](../../movies.jpeg)
+Preview 
+C:\Users\renna\OneDrive\Área de Trabalho\exercise\new\movies.jpeg
+C:\Users\renna\OneDrive\Área de Trabalho\exercise\new\seach_movie.jpeg
 
 ## Technologies Used
 
